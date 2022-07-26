@@ -1,5 +1,5 @@
 #Run: python -u Random1.py
-#This program prints out 3 animals randomly
+#This program prints out 3 animals randomly1
 
 import random
 dDict = dict() # Create dictionary 
